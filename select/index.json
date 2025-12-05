@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アダムとマダム",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2025-12-05T04:29:18.270989Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アダムとマダム",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_アダムとマダム_HIMEHINA.txt"
+    }
+  ]
+}
